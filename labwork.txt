@@ -1,0 +1,40 @@
+LAB EVALUATION
+
+ATTEMPT all QUESTIONS
+Q1 .PERFORM USING THE SCREEN SHOT OF YOUR ACCOUNT LOGIN
+
+(i) Create a local git repository (20)
+Commit the initial code
+Update the project on the remote server. Also perform some changes on remote n reflect the
+same on local.
+Use git commands to
+o Get the updated files
+o List the changes
+o Create branches b1,&gt;&gt;b2,&gt;&gt;&gt;b3 and update them as well.
+o List the changes
+Also connectify with the local repo that u have created with the Jenkins tool to automate the
+Build process of local as well as remote repo.
+SCREENSHOT OF COMMAND git log to represent the set of commands and instructions
+executed in today’s instance. ALSO SHARE NECESSARY SCREENSHOTS OF
+COMMANDS ASKED.
+Q2.  Build and deploy your application in the Docker. (15)
+SHARE THE SCREENSHOT OF YOUR DOCKER ACCOUNT TO REPRESENT THE
+IMAGE BUILD in today’s instance. ALSO SHARE NECESSARY SCREENSHOTS OF
+COMMANDS ASKED. [push,pull]
+Q3. Summarize the requirements . Draw the ERD , class diagram and sequence diagram for
+the online Result management system. [SMART DRAW, edraw, UML DIAGRAM, ms
+visio] (15)
+
+OR
+Q3. Test the Necessary Web elements on Website
+http://www.techlistic.com/p/selenium-practice-form.html
+submit test script and the results ..................
+Q4. Create the project for any given web application example using agile methodology
+(SCRUM TEMPLATE). Backlog must contain relevant issues of the project. Submit the
+screen shoots of Backlog, SPRINT BACKLOG, burn down, burn up, sprint report and
+velocity charts for the sprint.(From your login only) (20)
+
+1. Online clinic Management system OR
+2. E-grievance Management system
+
+EPIC, COMPONENTS,VERSION== 2 STORIES====SUB-TASK, TASK, BUG
